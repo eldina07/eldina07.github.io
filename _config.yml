@@ -1,3 +1,5 @@
+baseurl: ""
+url: "https://eldina07.github.io"
 title: A little page about what I do
 description: I'm a network developer and I try to share contents about that
 remote_theme: pages-themes/cayman@v0.2.0
